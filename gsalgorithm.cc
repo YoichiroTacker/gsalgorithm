@@ -3,7 +3,7 @@
 #include <random>
 #include <time.h>
 #include <chrono>
-#define N 30000 /* 人数 */
+#define N 5 /* 人数 */
 
 //生成した2次元配列を表示
 void showarray(int **num, int numline)
